@@ -75,30 +75,6 @@
 
 ---
 
-## 🧪 검증 항목 (테스트 체크리스트)
-
-- ✅ AR 이미지 트래킹 정확도 (다양한 조명, 각도에서 인식 가능)
-- ✅ 캐릭터 애니메이션 매끄럽게 실행
-- ✅ 음성 인식 반응 및 오류 처리
-- ✅ UI 반응 속도 및 가독성
-- ✅ 전체 흐름 자연스러움 (스토리 → 반응 → 다음 장면)
-
----
-
-## 📁 참고 자료 (Notion)
-
-- [팀원 역할 분배](https://www.notion.so/1ce4b04e10ea81969a22c682b27b7e77?pvs=21)  
-- [컨텐츠 제작 회의](https://www.notion.so/1ce4b04e10ea814f88d4d457cc0c4b3f?pvs=21)  
-- [시스템 문서 작성](https://www.notion.so/1ce4b04e10ea81b99b9ee0e95efa5aa1?pvs=21)  
-- [에셋/애니메이션 찾기](https://www.notion.so/1ce4b04e10ea818085b2eeb390c3c50f?pvs=21)  
-- [AR 기능 구현 (이미지 인식, 상호작용, 장면 전환 등)](https://www.notion.so/AR-1ce4b04e10ea8134a9e2e216eb9542a3?pvs=21)  
-- [음향, 내레이션, 효과음 설정](https://www.notion.so/1ce4b04e10ea81e4ae48ded8d429972f?pvs=21)  
-- [최종 테스트 및 발표 자료](https://www.notion.so/1ce4b04e10ea817780a7e733d521eaea?pvs=21)  
-
-*(더 많은 세부 링크는 Notion 내부에서 연결됨)*
-
----
-
 ## 🎥 데모 영상 / 스크린샷
 
 > 📌 *추후 시연 영상 및 스크린샷 추가 예정*
