@@ -42,8 +42,15 @@
 - **AR 엔진**: AR Foundation + ARCore
 - **언어**: C#
 - **이미지 트래킹**: ARTrackedImageManager
-- **음성 인식**: Android SpeechRecognizer (Unity 연동)
+- **음성 인식**: Google STT (Speech-to-Text) 
+- **내레이션**: Vrew
 - **버전 관리**: Git + GitHub
+
+---
+
+## 🗂 협업 및 관리 도구
+- **Notion**: 프로젝트 기획서, 체크리스트 문서화 , 전체 개발 일정 계획 및 일간 작업 현황 공유
+- **Google Spreadsheet**: 일일 업무 기록, 진행 상태 시각화
 
 ---
 
@@ -101,6 +108,11 @@
 
 ---
 
+## 💡 회고 요약
+- AR 콘텐츠 기획부터 완성까지 **기한 내 전 기능 구현 및 테스트 완료**
+- Unity 기반 UI/UX 흐름 설계 및 AR 트래킹 기능에 대한 실전 감각 확보
+- 팀장 경험을 통해 일정 관리, 협업 툴 운영, 팀 커뮤니케이션 역량 향상
+- 
 ## 🔍 AR 이미지 인식 개선 과정
 
 - 학습용, 전시용으로 제작된 데모 프로젝트입니다.
