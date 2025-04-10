@@ -39,7 +39,7 @@
 ## 🔧 사용 기술 스택
 
 - **개발 도구**: Unity 2021 LTS
-- **AR 엔진**: AR Foundation + ARCore
+- **AR 엔진**: Unity AR Foundation + ARCore
 - **언어**: C#
 - **이미지 트래킹**: ARTrackedImageManager
 - **음성 인식**: Google STT (Speech-to-Text) 
