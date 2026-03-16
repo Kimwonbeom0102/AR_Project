@@ -1,6 +1,6 @@
 #  AR Interactive Storybook
 
-** Unity + ARCore + C#** 기반의 안드로이드용 증강현실 앱입니다.
+** Unity + ARCore + C#** 기반의 안드로이드용 증강현실 앱입니다.**
 
 ---
 
