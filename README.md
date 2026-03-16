@@ -44,13 +44,6 @@
 
 - Google STT (Speech-to-Text)
 
-**Tools**
-
-- Git / GitHub
-- Notion
-- Google Spreadsheet
-
-
 ---
 
 # Role
