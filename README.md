@@ -28,7 +28,7 @@
 
 **Engine**
 
-- Unity 2021 LTS
+- Unity 2021 
 - AR Foundation
 - ARCore
 
@@ -50,12 +50,6 @@
 - Notion
 - Google Spreadsheet
 
-
----
-
-##  협업 및 관리 도구
-- **Notion**: 프로젝트 기획서, 체크리스트 문서화 , 전체 개발 일정 계획 및 일간 작업 현황 공유
-- **Google Spreadsheet**: 일일 업무 기록, 진행 상태 시각화
 
 ---
 
